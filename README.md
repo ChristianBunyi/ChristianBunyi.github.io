@@ -17,16 +17,14 @@ Our support team is always available to answer any questions and provide guidanc
 
 ## Join the Community
 
-##Welcome to SHARP GAMING!
+Welcome to SHARP GAMING!
 
-##This page is dedicated to showcasing all the amazing gaming experiences I've had throughout my life. From classic console gaming to the newest virtual reality experiences, I've had it all. I hope you enjoy seeing all my photos as much as I've enjoyed taking them and playing all these different games.
+This page is dedicated to showcasing all the amazing gaming experiences I've had throughout my life. From classic console gaming to the newest virtual reality experiences, I've had it all. I hope you enjoy seeing all my photos as much as I've enjoyed taking them and playing all these different games.
 
-Here are some of my favorite gaming photos:
+top games:
 
-![Image of an Xbox One controller](https://images.unsplash.com/photo-1524593689594-aae2f26b75ab?ixlib=rb-1.2.1&ixid=eyJhcHBfaWQiOjEyMDd9&auto=format&fit=crop&w=1650&q=80)
+![Red dead photo](https://media.rockstargames.com/rockstargames-newsite/uploads/d5c7e4dcecb612368aee64978f183250b6e643fe.jpg)
 
-![Image of an old Nintendo controller](https://images.unsplash.com/photo-1540959733332-eab4deabeeaf?ixlib=rb-1.2.1&ixid=eyJhcHBfaWQiOjEyMDd9&auto=format&fit=crop&w=1650&q=80)
-
-![Image of a VR headset
+![Stray photo](https://i.ytimg.com/vi/CT9M8rfO-EU/maxresdefault.jpg)
 
 theme:jeykll-theme-clayman
