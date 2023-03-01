@@ -23,8 +23,8 @@ This page is dedicated to showcasing all the amazing gaming experiences I've had
 
 TOP GAMES:
 
-![Red dead photo](https://media.rockstargames.com/rockstargames-newsite/uploads/d5c7e4dcecb612368aee64978f183250b6e643fe.jpg)
+![alt text](https://media.rockstargames.com/rockstargames-newsite/uploads/d5c7e4dcecb612368aee64978f183250b6e643fe.jpg)
 Red Dead Redemption 2 is a 2018 action-adventure game developed and published by Rockstar Games. The game is the third entry in the Red Dead series and a prequel to the 2010 game Red Dead Redemption.
 
-![Stray photo](https://i.ytimg.com/vi/CT9M8rfO-EU/maxresdefault.jpg)
+![alt text](https://i.ytimg.com/vi/CT9M8rfO-EU/maxresdefault.jpg)
 Stray is a 2022 adventure game developed by BlueTwelve Studio and published by Annapurna Interactive. The story follows a stray cat who falls into a walled city populated by robots, machines, and mutant bacteria, and sets out to return to the surface with the help of a drone companion, B-12.
