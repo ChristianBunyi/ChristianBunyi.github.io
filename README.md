@@ -22,7 +22,7 @@ Welcome to SHARP GAMING!
 
 This page is dedicated to showcasing all the amazing gaming experiences I've had throughout my life. From classic console gaming to the newest virtual reality experiences, I've had it all. I hope you enjoy seeing all my photos as much as I've enjoyed taking them and playing all these different games.
 
-TOP GAMES:
+#TOP GAMES:
 
 ![alt text](https://cdn.cloudflare.steamstatic.com/steam/apps/1174180/header.jpg?t=1671485009)
 
