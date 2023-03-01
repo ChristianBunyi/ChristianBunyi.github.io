@@ -18,4 +18,4 @@ Our support team is always available to answer any questions and provide guidanc
 ## Join the Community
 
 Become part of our gaming community to find new friends and join in on fun gaming events. Our community members are always looking for new ways to
-theme: Theme-minima
+theme:minima
