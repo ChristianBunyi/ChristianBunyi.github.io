@@ -23,7 +23,7 @@ This page is dedicated to showcasing all the amazing gaming experiences I've had
 
 TOP GAMES:
 
-![alt text](https://media.rockstargames.com/rockstargames-newsite/uploads/d5c7e4dcecb612368aee64978f183250b6e643fe.jpg)
+![alt text](https://cdn.cloudflare.steamstatic.com/steam/apps/1174180/header.jpg?t=1671485009)
 Red Dead Redemption 2 is a 2018 action-adventure game developed and published by Rockstar Games. The game is the third entry in the Red Dead series and a prequel to the 2010 game Red Dead Redemption.
 
 ![alt text](https://i.ytimg.com/vi/CT9M8rfO-EU/maxresdefault.jpg)
