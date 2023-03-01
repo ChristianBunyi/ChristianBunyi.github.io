@@ -25,8 +25,17 @@ TOP GAMES:
 
 ![alt text](https://cdn.cloudflare.steamstatic.com/steam/apps/1174180/header.jpg?t=1671485009)
 
-Red Dead Redemption 2 is a 2018 action-adventure game developed and published by Rockstar Games. The game is the third entry in the Red Dead series and a prequel to the 2010 game Red Dead Redemption.
+Red Dead Redemption 2 is a 2018 action-adventure game developed and published by Rockstar Games.
+The game is the third entry in the Red Dead series and a prequel to the 2010 game Red Dead Redemption.
 
 ![alt text](https://cdn.mobygames.com/covers/10919613-stray-front-cover.jpg)
 
-Stray is a 2022 adventure game developed by BlueTwelve Studio and published by Annapurna Interactive. The story follows a stray cat who falls into a walled city populated by robots, machines, and mutant bacteria, and sets out to return to the surface with the help of a drone companion, B-12.
+Stray is a 2022 adventure game developed by BlueTwelve Studio and published by Annapurna Interactive.
+The story follows a stray cat who falls into a walled city populated by robots, machines, and mutant bacteria, 
+and sets out to return to the surface with the help of a drone companion, B-12.
+
+![alt text](https://cdn.akamai.steamstatic.com/steam/apps/1259420/header.jpg?t=1635476187)
+
+Ride and fight into a deadly, post pandemic America. Play as Deacon St. John, 
+a drifter and bounty hunter who rides the broken road, fighting to survive while searching for a reason to live 
+in this open-world action-adventure game. 
